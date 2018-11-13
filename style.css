@@ -11,7 +11,7 @@ font-family: 'Impact', sans-serif;
 }
 
 h3 { color: black;
-font-size: 1em;
+font-size: 1.5em;
 font-weight: 400;
 font-family: 'Helvetica', sans-serif;
 text-decoration: underline;
@@ -19,13 +19,13 @@ text-decoration: underline;
 
 p {
 	color: blue;
-	font-size: 0.5em;
+	font-size: 0.75em;
 	font-weight: 400;
 	font-family: 'Helvetica', sans-serif;
 }
 
 img {
 	color: black;
-	font-size: 0.5em;
+	font-size: 0.75em;
 	font-family: 'Helvetica', sans-serif;
 }
