@@ -26,8 +26,7 @@
 >I was not able to find any errors in the HTML given a quick skim through the code.
 
 ####    Evidence of collaboration: Acceptable
-
-There is no author information, so I cannot give marks for that. All members have contributed, but some did less than others. The work was done over the course of the week that we were given, so they did well here.
+>There is no author information, so I cannot give marks for that. All members have contributed, but some did less than others. The work was done over the course of the week that we were given, so they did well here.
 
 
 ### Summary
