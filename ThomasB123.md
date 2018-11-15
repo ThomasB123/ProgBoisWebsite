@@ -22,7 +22,7 @@ Sound - There are many spelling errors in this page: 'a-symetric', 'asymetric', 
 
 4. Validity of HTML
 
-Outstanding - I ran the HTML through the w3 HTML checker and it only came up with one error, which was for the following line: <img src="rsaexample.jpg" alt="An example of RSA in action" width >, the only issue here is that 'width' needs to be taken out. Apart from this one small error, the HTML is perfectly valid, which is outstanding.
+Outstanding - I ran the HTML through the w3 HTML checker and it only came up with one error, which was for the RSA image tag containing a 'width' attribute with no value, so that just needs to be removed. Apart from this one small error, the HTML is perfectly valid, which is outstanding.
 
 5. Evidence of collaboration.
 - Author info not written by author
