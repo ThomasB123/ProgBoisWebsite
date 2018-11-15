@@ -31,7 +31,7 @@ Weak - There appears to be no information about the author of this page.
 
 - Balanced contributions from members
 
-Excellent - There appears to be a good balance in terms of the levels of contribution from all the different members of the group.
+Good - There appears to be a good balance in terms of the levels of contribution from all the different members of the group. However, there also appears to have been a lack of communication of somekind, because many of the pages don't contain valid links to any of the other pages. The 'silk road' page appears to have zero links to the other pages.
 
 - Not completed at the last minute
 
